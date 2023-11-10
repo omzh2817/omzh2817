@@ -42,5 +42,3 @@ if submitted:
 
  
 
-st.write('差し支えなければアンケートへのご協力をお願いします。→', 'https://forms.gle/ADcoMh1zQUnoZVub7', 'まで')
-st.write('© 2022-2023 Daiki Ito. All Rights Reserved.')
