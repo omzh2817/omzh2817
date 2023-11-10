@@ -4,7 +4,7 @@ import openai
 st.set_page_config(page_title="プログラミングサポートAI", layout="wide")
 
 st.title("英語教師を超すAIです")
-st.caption("Created by Daiki Ito")
+st.caption("Created by human")
  
 st.write('初めての方は右のリンクから「Sign up」をしてAPIキーを取得してください',
          'https://beta.openai.com'
