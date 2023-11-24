@@ -6,7 +6,7 @@ import openai
 st.set_page_config(page_title="英語お勉強サポートAI", layout="wide")
 
  
-
+　
 st.title("☆完全無欠☆！！あなたの成績を指数関数のように上げる英語教師を超すAIです")
 st.caption("Created by human")
  
