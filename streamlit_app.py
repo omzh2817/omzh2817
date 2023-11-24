@@ -3,7 +3,7 @@ import openai
 
  
 
-st.set_page_config(page_title="プログラミングサポートAI", layout="wide")
+st.set_page_config(page_title="英語お勉強サポートAI", layout="wide")
 
  
 
