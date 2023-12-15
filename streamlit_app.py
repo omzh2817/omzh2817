@@ -37,7 +37,7 @@ if submitted:
         openai.api_key = input_apikey
         response = openai.Completion.create(
             # テスト
-            engine="text-davinci-003",
+            engine="gpt-3.5-turbo",
             prompt=input_prompt+"###"+input_text+"###",
             temperature=0,
             max_tokens=2048,
